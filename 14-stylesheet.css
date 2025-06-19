@@ -1,0 +1,22 @@
+@font-face {
+    src: url(fonts\Roboto-Italic-VariableFont_wdth,wght.ttf);
+    font-family: Roboto-italic;
+}
+@font-face {
+    src: url(fonts\OpenSans-Italic-VariableFont_wdth,wght.ttf);
+    font-family: OpenSans-italic;
+}
+
+
+
+h1{
+    font-family: Roboto-italic , Arial, Helvetica, sans-serif;
+  
+}
+p{
+    font-family:"OpenSans-italic" ,"lucida console", "Courier New";
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+
+}

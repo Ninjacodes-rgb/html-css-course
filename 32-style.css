@@ -1,0 +1,25 @@
+.icons{
+    text-align: center;
+}
+.icons a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.fa-solid.fa-house.fa-5x{
+    color: red;
+}
+.fa-solid.fa-house.fa-5x:hover{
+    color: tomato;
+}
+.fa-brands.fa-twitter.fa-5x{
+    color: aqua;
+}
+.fa-brands.fa-twitter.fa-5x:hover{
+    color: lightblue;
+}
+.fa-solid.fa-circle-user.fa-5x{
+    color: green;
+}
+.fa-solid.fa-circle-user.fa-5x:hover{
+    color: lightgreen;
+}
